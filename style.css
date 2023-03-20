@@ -139,6 +139,15 @@ img {
 .lh-36{
     line-height: 36px;
 }
+.mb-15{
+    margin-bottom: 15px;
+}
+.mb-4{
+    margin-bottom: 4px;
+}
+.mb-8{
+    margin-bottom: 8px;
+}
 .container{
     margin: 0 auto;
 }
@@ -189,17 +198,18 @@ img {
     font-weight: 700;
 }
 .about .introduce{
-    margin-bottom: 26px;
+    margin-bottom: 24px;
 }
 .about .experience{
     margin: 0 auto;
     width: 384px;
-    padding-top: 26px;
+    padding-top: 22px;
     border-top: 1px solid #000;
-    margin-bottom: 47px;
+    margin-bottom: 51px;
 }
 .about .experience p{
     font-weight: 700;
+    margin-bottom: 18px;
 }
 .brand{
     height: 1350px;
